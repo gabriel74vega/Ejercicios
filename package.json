@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "Ejercicios de programación",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel74vega/Ejercicios.git"
+  },
+  "author": "Gabriel Alejandro Vega",
+  "license": "ISC",
+  "homepage": "https://github.com/gabriel74vega/Ejercicios#readme"
+}
